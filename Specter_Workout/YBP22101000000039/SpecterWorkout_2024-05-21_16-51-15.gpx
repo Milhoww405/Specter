@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx
+    version="1.0"
+    creator=""
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://www.topografix.com/GPX/1/0"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+    <name><![CDATA[Specter Workout]]></name>
+    <desc><![CDATA[A workout powered by Specter]]></desc>
+    <author><![CDATA[Specter Bike]]></author>
+    <time><![CDATA[2024-05-21T14:51:15Z]]></time>
+    <keywords><![CDATA[workout, fitness, demonstration]]></keywords>
+    <bounds minlat="40.7128" minlon="-74.0060" maxlat="40.716" maxlon="-74.015"/>
+    <trk>
+        <name><![CDATA[Specter Workout]]></name>
+        <desc><![CDATA[A workout powered by Specter]]></desc>
+        <trkseg>
+            <trkpt lat="51.00317428" lon="3.80052538">
+    <ele>0</ele>
+    <time>2024-05-21T14:51:13Z</time>
+    <extensions>
+        <power>0</power>
+    </extensions>
+</trkpt>
+        </trkseg>
+    </trk>
+</gpx>
