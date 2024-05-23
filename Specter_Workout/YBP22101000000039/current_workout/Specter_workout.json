@@ -1,1 +1,112 @@
-$ew0KICAiYXV0aG9yIjogIlllbnRsIERlIEJyYWJhbmRlciIsDQogICJuYW1lIjogIlRlbXBvIG1ldCBoYXJ0c2xhZ3pvbmVzIDF1MTUiLA0KICAiZGVzY3JpcHRpb24iOiAiRGV6ZSB3b3Jrb3V0IHJpY2h0IHppY2ggb3AgaGV0IHZlcmJldGVyZW4gdmFuIGplIHRlbXBvIGRvb3IgbWlkZGVsIHZhbiBpbnRlcnZhbGxlbiBtZXQgdmVyc2NoaWxsZW5kZSBoYXJ0c2xhZ3pvbmVzLiIsDQogICJzcG9ydFR5cGUiOiAiYmlrZSIsDQogICJ0YWdzIjogWyJ0ZW1wbyIsICJoYXJ0c2xhZyIsICJpbnRlcnZhbHRyYWluaW5nIl0sDQogICJ3b3Jrb3V0Ijogew0KICAgICJXYXJtdXAiOiB7DQogICAgICAiRHVyYXRpb24iOiAxMjAwLA0KICAgICAgIkhlYXJ0UmF0ZVpvbmUiOiAiWm9uZSAyIiwNCiAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICJ0aW1lb2Zmc2V0IjogMCwNCiAgICAgICAgIm1lc3NhZ2UiOiAiQmVnaW4gbWV0IGVlbiBydXN0aWdlIHdhcm1pbmctdXAgb20gamUgbGljaGFhbSB2b29yIHRlIGJlcmVpZGVuIG9wIGRlIHRyYWluaW5nLiINCiAgICAgIH0NCiAgICB9LA0KICAgICJJbnRlcnZhbHNUIjogew0KICAgICAgIlJlcGVhdCI6IDQsDQogICAgICAiRHVyYXRpb24iOiA2MCwNCiAgICAgICJPbkR1cmF0aW9uIjogNjAsDQogICAgICAiSGVhcnRSYXRlWm9uZUxvdyI6ICJab25lIDIiLA0KICAgICAgIkhlYXJ0UmF0ZVpvbmVIaWdoIjogIlpvbmUgMyIsDQogICAgICAiT2ZmRHVyYXRpb24iOiAzMCwNCiAgICAgICJPZmZIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAidGV4dGV2ZW50Ijogew0KICAgICAgICAidGltZW9mZnNldCI6IDAsDQogICAgICAgICJtZXNzYWdlIjogIldpc3NlbCBhZiB0dXNzZW4gaW50ZXJ2YWx0cmFpbmluZyBpbiBab25lIDIgZW4gWm9uZSAzLiBSdXN0aWcgdWl0IGluIFpvbmUgMSB0dXNzZW4gZGUgaW50ZXJ2YWxsZW4uIg0KICAgICAgfQ0KICAgIH0sDQogICAgIlN0ZWFkeVN0YXRlIjogWw0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIlRpamQgb20gdGUgaGVyc3RlbGxlbiBpbiBab25lIDEuIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiAxODAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMiIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIlZlcmhvb2cgamUgdGVtcG8gbmFhciBab25lIDIuIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIkhlcnN0ZWx0aWpkIGluIFpvbmUgMS4iDQogICAgICAgIH0NCiAgICAgIH0sDQogICAgICB7DQogICAgICAgICJEdXJhdGlvbiI6IDE4MCwNCiAgICAgICAgIkhlYXJ0UmF0ZVpvbmUiOiAiWm9uZSAyIiwNCiAgICAgICAgInRleHRldmVudCI6IHsNCiAgICAgICAgICAidGltZW9mZnNldCI6IDAsDQogICAgICAgICAgIm1lc3NhZ2UiOiAiVGVtcG8gdmVyaG9nZW4gbmFhciBab25lIDIuIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIkhlcnN0ZWx0aWpkIGluIFpvbmUgMS4iDQogICAgICAgIH0NCiAgICAgIH0sDQogICAgICB7DQogICAgICAgICJEdXJhdGlvbiI6IDE4MCwNCiAgICAgICAgIkhlYXJ0UmF0ZVpvbmUiOiAiWm9uZSAyIiwNCiAgICAgICAgInRleHRldmVudCI6IHsNCiAgICAgICAgICAidGltZW9mZnNldCI6IDAsDQogICAgICAgICAgIm1lc3NhZ2UiOiAiVGVtcG8gdmVyaG9nZW4gbmFhciBab25lIDIuIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIkhlcnN0ZWx0aWpkIGluIFpvbmUgMS4iDQogICAgICAgIH0NCiAgICAgIH0sDQogICAgICB7DQogICAgICAgICJEdXJhdGlvbiI6IDE4MCwNCiAgICAgICAgIkhlYXJ0UmF0ZVpvbmUiOiAiWm9uZSAyIiwNCiAgICAgICAgInRleHRldmVudCI6IHsNCiAgICAgICAgICAidGltZW9mZnNldCI6IDAsDQogICAgICAgICAgIm1lc3NhZ2UiOiAiVGVtcG8gdmVyaG9nZW4gbmFhciBab25lIDIuIg0KICAgICAgICB9DQogICAgICB9LA0KICAgICAgew0KICAgICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAgICJIZWFydFJhdGVab25lIjogIlpvbmUgMSIsDQogICAgICAgICJ0ZXh0ZXZlbnQiOiB7DQogICAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAgICJtZXNzYWdlIjogIlRpamQgb20gdGUgaGVyc3RlbGxlbiBpbiBab25lIDEuIg0KICAgICAgICB9DQogICAgICB9DQogICAgXSwNCiAgICAiQ29vbGRvd24iOiB7DQogICAgICAiRHVyYXRpb24iOiA2MDAsDQogICAgICAiSGVhcnRSYXRlWm9uZSI6ICJab25lIDEiLA0KICAgICAgInRleHRldmVudCI6IHsNCiAgICAgICAgInRpbWVvZmZzZXQiOiAwLA0KICAgICAgICAibWVzc2FnZSI6ICJTbHVpdCBkZSB0cmFpbmluZyBhZiBtZXQgZWVuIGNvb2xpbmctZG93biBpbiBab25lIDEuIg0KICAgICAgfQ0KICAgIH0NCiAgfQ0KfQ0K
+{
+  "author": "Yentl De Brabander",
+  "name": "Tempo met hartslagzones 1u15",
+  "description": "Deze workout richt zich op het verbeteren van je tempo door middel van intervallen met verschillende hartslagzones.",
+  "sportType": "bike",
+  "tags": ["tempo", "hartslag", "intervaltraining"],
+  "workout": {
+    "Warmup": {
+      "Duration": 1200,
+      "HeartRateZone": "Zone 2",
+      "textevent": {
+        "timeoffset": 0,
+        "message": "Begin met een rustige warming-up om je lichaam voor te bereiden op de training."
+      }
+    },
+    "IntervalsT": {
+      "Repeat": 4,
+      "Duration": 60,
+      "OnDuration": 60,
+      "HeartRateZoneLow": "Zone 2",
+      "HeartRateZoneHigh": "Zone 3",
+      "OffDuration": 30,
+      "OffHeartRateZone": "Zone 1",
+      "textevent": {
+        "timeoffset": 0,
+        "message": "Wissel af tussen intervaltraining in Zone 2 en Zone 3. Rustig uit in Zone 1 tussen de intervallen."
+      }
+    },
+    "SteadyState": [
+      {
+        "Duration": 600,
+        "HeartRateZone": "Zone 1",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Tijd om te herstellen in Zone 1."
+        }
+      },
+      {
+        "Duration": 180,
+        "HeartRateZone": "Zone 2",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Verhoog je tempo naar Zone 2."
+        }
+      },
+      {
+        "Duration": 600,
+        "HeartRateZone": "Zone 1",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Hersteltijd in Zone 1."
+        }
+      },
+      {
+        "Duration": 180,
+        "HeartRateZone": "Zone 2",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Tempo verhogen naar Zone 2."
+        }
+      },
+      {
+        "Duration": 600,
+        "HeartRateZone": "Zone 1",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Hersteltijd in Zone 1."
+        }
+      },
+      {
+        "Duration": 180,
+        "HeartRateZone": "Zone 2",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Tempo verhogen naar Zone 2."
+        }
+      },
+      {
+        "Duration": 600,
+        "HeartRateZone": "Zone 1",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Hersteltijd in Zone 1."
+        }
+      },
+      {
+        "Duration": 180,
+        "HeartRateZone": "Zone 2",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Tempo verhogen naar Zone 2."
+        }
+      },
+      {
+        "Duration": 600,
+        "HeartRateZone": "Zone 1",
+        "textevent": {
+          "timeoffset": 0,
+          "message": "Tijd om te herstellen in Zone 1."
+        }
+      }
+    ],
+    "Cooldown": {
+      "Duration": 600,
+      "HeartRateZone": "Zone 1",
+      "textevent": {
+        "timeoffset": 0,
+        "message": "Sluit de training af met een cooling-down in Zone 1."
+      }
+    }
+  }
+}
